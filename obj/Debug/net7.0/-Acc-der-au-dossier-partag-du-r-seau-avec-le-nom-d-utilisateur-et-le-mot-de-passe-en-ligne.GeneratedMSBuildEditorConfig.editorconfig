@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _Acc_der_au_dossier_partag_du_r_seau_avec_le_nom_d_utilisateur_et_le_mot_de_passe_en_ligne
+build_property.ProjectDir = F:\git projet\-Acc-der-au-dossier-partag-du-r-seau-avec-le-nom-d-utilisateur-et-le-mot-de-passe-en-ligne\

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "-Acc-der-au-dossier-partag-du-r-seau-avec-le-nom-d-utilisateur-et-le-mot-de-passe-en-ligne/1.0.0": {
+        "runtime": {
+          "-Acc-der-au-dossier-partag-du-r-seau-avec-le-nom-d-utilisateur-et-le-mot-de-passe-en-ligne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "-Acc-der-au-dossier-partag-du-r-seau-avec-le-nom-d-utilisateur-et-le-mot-de-passe-en-ligne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
